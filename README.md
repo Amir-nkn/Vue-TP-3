@@ -145,6 +145,8 @@ npm run dev
 
 📸 Upload de fichiers au lieu d’une URL d’image manuelle
 
+💻 Pour démarrer le projet : exécutez `npm run serve` pour le frontend Vue.js et `node server.js` pour le backend Node.js (ou `json-server` si vous utilisez un mock).
+
 👤 Auteur
 Projet réalisé par Amirhossein Niakan
 TP3 – Gestion de Forfaits Touristiques
